@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="dashboard_button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:padding">@dimen/button_padding</item>
+        <item name="android:drawablePadding">@dimen/button_drawable_padding</item>
+        <item name="android:background">@drawable/buttonselector</item>
+        <item name="android:onClick">onClickDashboard</item>
+    </style>
+
+
+</resources>

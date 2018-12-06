@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="dsic.online.MainActivity" >
+    <item android:id="@+id/action_locate"
+        android:title="@string/action_locate"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_mylocation"
+        android:visible="true"/>
+    <item android:id="@+id/action_dont_locate"
+        android:title="@string/action_dont_locate"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:visible="false"/>
+</menu>

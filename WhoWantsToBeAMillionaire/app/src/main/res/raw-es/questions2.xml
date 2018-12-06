@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+    <quizz>
+
+    <question text="Which is the Sunshine State of the US?" right="2" phone="2" number="1" fifty2="4" fifty1="1" audience="2" answer4="4.  Arizona" answer3="3.  Texas" answer2="2.  Florida" answer1="1.  North Carolina"/>
+    <question text="Which of these is not a U.S. state?" right="4" phone="4" number="2" fifty2="3" fifty1="2" audience="4" answer4="4.  Manitoba" answer3="3.  Wyoming" answer2="2.  Washington" answer1="1.  New Hampshire"/>
+    <question text="What is Book 3 in the Pokemon book series?" right="3" phone="3" number="3" fifty2="4" fifty1="1" audience="2" answer4="4.  I Choose You!" answer3="3.  Attack of the Prehistoric Pokemon" answer2="2.  Island of the Giant Pokemon" answer1="1.  Charizard"/>
+    <question text="Who was forced to sign the Magna Carta?" right="1" phone="1" number="4" fifty2="3" fifty1="2" audience="3" answer4="4.  King George III" answer3="3.  King Richard the Lion-Hearted" answer2="2.  King Henry VIII" answer1="1.  King John"/>
+    <question text="Which ship was sunk in 1912 on its first voyage, although people said it would never sink?" right="4" phone="4" number="5" fifty2="2" fifty1="1" audience="4" answer4="4.  Titanic" answer3="3.  Queen Elizabeth" answer2="2.  Royal Caribean" answer1="1.  Monitor"/>
+    <question text="Who was the third James Bond actor in the MGM films? (Do not include 'Casino Royale'.)" right="1" phone="3" number="6" fifty2="3" fifty1="2" audience="3" answer4="4.  Sean Connery" answer3="3.  Timothy Dalton" answer2="2.  Pierce Brosnan" answer1="1.  Roger Moore"/>
+    <question text="Which is the largest toothed whale?" right="4" phone="2" number="7" fifty2="3" fifty1="2" audience="2" answer4="4.  Sperm Whale" answer3="3.  Killer Whale" answer2="2.  Blue Whale" answer1="1.  Humpback Whale"/>
+    <question text="In what year was George Washington born?" right="2" phone="2" number="8" fifty2="4" fifty1="1" audience="2" answer4="4.  1776" answer3="3.  1713" answer2="2.  1732" answer1="1.  1728"/>
+    <question text="Which of these rooms is in the second floor of the White House?" right="2" phone="2" number="9" fifty2="4" fifty1="3" audience="2" answer4="4.  East Room" answer3="3.  State Dining Room" answer2="2.  China Room" answer1="1.  Red Room"/>
+    <question text="Which Pope began his reign in 963?" right="2" phone="2" number="10" fifty2="4" fifty1="3" audience="1" answer4="4.  Gregory I" answer3="3.  Gregory VII" answer2="2.  Leo VIII" answer1="1.  Innocent III"/>
+    <question text="What is the second longest river in South America?" right="1" phone="1" number="11" fifty2="3" fifty1="2" audience="1" answer4="4.  Rio Orinoco" answer3="3.  Amazon River" answer2="2.  Xingu River" answer1="1.  Parana River"/>
+    <question text="What Ford replaced the Model T?" right="2" phone="4" number="12" fifty2="3" fifty1="1" audience="4" answer4="4.  Mustang" answer3="3.  Edsel" answer2="2.  Model A" answer1="1.  Model U"/>
+    <question text="When was the first picture taken?" right="4" phone="4" number="13" fifty2="3" fifty1="1" audience="4" answer4="4.  1826" answer3="3.  1912" answer2="2.  1793" answer1="1.  1860"/>
+    <question text="Where were the first Winter Olympics held?" right="4" phone="4" number="14" fifty2="3" fifty1="2" audience="1" answer4="4.  Chamonix, France" answer3="3.  Oslo, Norway" answer2="2.  Stockholm, Sweden" answer1="1.  St. Moritz, Switzerland"/>
+    <question text="Which of these is not the name of a New York tunnel?" right="4" phone="4" number="15" fifty2="3" fifty1="1" audience="4" answer4="4.  Manhattan" answer3="3.  Queens Midtown" answer2="2.  Lincoln" answer1="1.  Brooklyn-Battery"/>
+
+    </quizz>

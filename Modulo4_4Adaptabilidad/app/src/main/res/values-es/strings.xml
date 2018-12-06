@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PatronesGUI</string>
+    <string name="toast_add">Botón añadir pulsado!</string>
+    <string name="toast_delete">Botón eliminar pulsado!</string>
+    <string name="toast_camera">Botón camera pulsado!</string>
+    <string name="toast_gallery">Botón galería pulsado!</string>
+    <string name="toast_agenda">Botón agenda pulsado!</string>
+    <string name="toast_send">Botón enviar pulsado!</string>
+    <string name="action_search">Búsqueda</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="action_share">Compartir</string>
+    <string name="title_activity_blank">Actividad en blanco</string>
+    <string name="hello_world">Hola Mundo!</string>
+
+</resources>

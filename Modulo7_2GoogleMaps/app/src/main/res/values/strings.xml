@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Geolocation</string>
+    <string name="longitude">Enter your current longitude</string>
+    <string name="latitude">Enter your current latitude</string>
+    <string name="unknown_address">Unknown address</string>
+    <string name="action_locate">Get my location</string>
+    <string name="action_dont_locate">Stop locating me</string>
+
+</resources>

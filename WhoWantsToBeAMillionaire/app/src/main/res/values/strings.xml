@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">WhoWantsToBeAMillionaire</string>
+    <string name="initial_message">Ve a ajustes a configurar tus datos</string>
+    <string name="information">Información</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="title_play">Jugar</string>
+    <string name="title_scores">Puntuaciones</string>
+    <string name="title_settings">Ajustes</string>
+    <string name="title_credits">Creditos</string>
+    <string name="settins_name_friend">Nombre del amigo</string>
+    <string name="play_label">Jugar</string>
+    <string name="scores_label">Puntuaciones</string>
+    <string name="settings_label">Ajustes</string>
+    <string name="author">Autor:</string>
+    <string name="settings_name">Nombre:</string>
+    <string name="settings_question">¿Cuántas veces puedes pedir ayuda?(Escriba: 1,2 o 3) :</string>
+    <string name="settings_longitude">Longitud:</string>
+    <string name="settings_latitude">Latitud:</string>
+    <string name="settings_button">Añadir amigo:</string>
+    <string name="scores_local">Locales:</string>
+    <string name="scores_amigos">Amigos:</string>
+    <string name="play_playFor">Juega por:</string>
+    <string name="play_numberQuest">Pregunta:</string>
+    <string name="table1">Local:</string>
+    <string name="table2">Amigos:</string>
+    <string name="SHARED_PREF_GAME">true</string>
+    <string name="longitude">LONGITUD</string>
+    <string name="latitude">LATITUD</string>
+    <string name="name">NOMBRE</string>
+    <string name="score">PUNTUACIÓN</string>
+    <string name="enterName">Introduce el nombre de tu amigo antes</string>
+    <string name="people">Gente</string>
+    <string name="phone">Llamada</string>
+    <string name="fifty">50%</string>
+    <string name="text_call">Tu llamada cree que la respuesta correcta es la : </string>
+    <string name="text_people">La gente cree que la respuesta correcta es la : </string>
+    <string name="play_call">play_call</string>
+    <string name="play_people">play_people</string>
+    <string name="play_fifty">play_fifty</string>
+    <string name="not_connected">Tabla Amigos no disponible: "No hay conexión a Internet"</string>
+
+</resources>

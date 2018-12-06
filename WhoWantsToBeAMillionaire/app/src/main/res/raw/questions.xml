@@ -1,0 +1,20 @@
+
+<quizz>
+
+    <question text="¿Cuál es el 'estado del sol brillante' en los EEUU?" right="2" phone="2" number="1" fifty2="4" fifty1="1" audience="2" answer4="4.  Arizona" answer3="3.  Texas" answer2="2.  Florida" answer1="1.  North Carolina"/>
+    <question text="¿Cuál de los siguientes no es un estado de EEUU?" right="4" phone="4" number="2" fifty2="3" fifty1="2" audience="4" answer4="4.  Manitoba" answer3="3.  Wyoming" answer2="2.  Washington" answer1="1.  New Hampshire"/>
+    <question text="¿Cuál es el tercer libro en la serie Pokemon?" right="3" phone="3" number="3" fifty2="4" fifty1="1" audience="2" answer4="4.  ¡Te elijo a ti!" answer3="3.  El ataque del Pokemon prehistórico" answer2="2.  La isla del Pokemon gigante" answer1="1.  Charizard"/>
+    <question text="¿Quién fue forzado a firmar la Carta Magna?" right="1" phone="1" number="4" fifty2="3" fifty1="2" audience="3" answer4="4.  El rey Jorge III" answer3="3.  El rey Ricardo Corazón de León" answer2="2.  El rey Enrique VIII" answer1="1.  El rey Juan"/>
+    <question text="¿Qué barco se hundió en 1912 en su primer viaje, aunque se dijo que nunca podría hundirse?" right="4" phone="4" number="5" fifty2="2" fifty1="1" audience="4" answer4="4.  Titanic" answer3="3.  Queen Elizabeth" answer2="2.  Royal Caribean" answer1="1.  Monitor"/>
+    <question text="¿Quién fue el tercer actor en representar a James Bond en las películas MGM? (sin incluir 'Casino Royale'.)" right="1" phone="3" number="6" fifty2="3" fifty1="2" audience="3" answer4="4.  Sean Connery" answer3="3.  Timothy Dalton" answer2="2.  Pierce Brosnan" answer1="1.  Roger Moore"/>
+    <question text="¿Cuál es la ballena dentada más grande?" right="4" phone="2" number="7" fifty2="3" fifty1="2" audience="2" answer4="4.  El cachalote" answer3="3.  La orca" answer2="2.  La ballena azul" answer1="1.  La ballena jorobada"/>
+    <question text="¿En qué año nació George Washington?" right="2" phone="2" number="8" fifty2="4" fifty1="1" audience="2" answer4="4.  1776" answer3="3.  1713" answer2="2.  1732" answer1="1.  1728"/>
+    <question text="¿Cuál de estas habitaciones está en el segundo piso de la Casa Blanca?" right="2" phone="2" number="9" fifty2="4" fifty1="3" audience="2" answer4="4.  East Room" answer3="3.  State Dining Room" answer2="2.  China Room" answer1="1.  Red Room"/>
+    <question text="¿Qué Papa comenzó su reinado en 963?" right="2" phone="2" number="10" fifty2="4" fifty1="3" audience="1" answer4="4.  Gregorio I" answer3="3.  Gregorio VII" answer2="2.  León VIII" answer1="1.  Inocencio III"/>
+    <question text="¿Cuál es el segundo río más largo de Sudamérica?" right="1" phone="1" number="11" fifty2="3" fifty1="2" audience="1" answer4="4.  El Orinoco" answer3="3.  El Amazonas" answer2="2.  El Xingu" answer1="1.  El Parana"/>
+    <question text="¿Qué Ford reemplazó al Modelo T?" right="2" phone="4" number="12" fifty2="3" fifty1="1" audience="4" answer4="4.  El Mustang" answer3="3.  El Edsel" answer2="2.  El Modelo A" answer1="1.  El Modelo U"/>
+    <question text="¿Cuándo se tomó la primera fotografía?" right="4" phone="4" number="13" fifty2="3" fifty1="1" audience="4" answer4="4.  1826" answer3="3.  1912" answer2="1793" answer1="1.  1860"/>
+    <question text="¿Dónde se celebraron los primeros juegos olímpicos de invierno?" right="4" phone="4" number="14" fifty2="3" fifty1="2" audience="1" answer4="4.  Chamonix, Francia" answer3="3.  Oslo, Noruega" answer2="2.  Stockholm, Suecia" answer1="1.  St. Moritz, Suiza"/>
+    <question text="¿Cuál de estos no es el nombre de un túnel de Nueva York?" right="4" phone="4" number="15" fifty2="3" fifty1="1" audience="4" answer4="4.  Manhattan" answer3="3.  Queens Midtown" answer2="2.  Lincoln" answer1="1.  Brooklyn-Battery"/>
+
+</quizz>

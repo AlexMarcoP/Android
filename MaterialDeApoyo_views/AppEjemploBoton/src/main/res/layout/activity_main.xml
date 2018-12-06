@@ -1,0 +1,14 @@
+<LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/btn_texto"
+        android:id="@id/MiBoton"
+        android:onClick="ejecutaAccion" />
+
+</LinearLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ficheros</string>
+    <string name="title_activity_launcher">Launcher_Activity</string>
+    <string name="tvName_Text">Nombre</string>
+    <string name="title_activity_files">Files_Activity</string>
+    <string name="title_activity_sdfiles">SDFiles_Activity</string>
+    <string name="title_activity_xmlfiles">XMLFiles_Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="sd_not_available">La tarjeta SD no está disponible, inténtalo más tarde</string>
+    <string name="permission_denied">El usuario no ha concedido permiso para cceder a la memoria externa</string>
+
+</resources>

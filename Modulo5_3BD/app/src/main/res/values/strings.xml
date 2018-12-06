@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BD</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_new">New</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_clear">Clear</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="phone">Phone:</string>
+    <string name="hint_name">Enter name</string>
+    <string name="hint_email">Enter email address</string>
+    <string name="hint_phone">Enter phone number</string>
+    <string name="name_required">Please, enter your contact\'s name</string>
+
+</resources>

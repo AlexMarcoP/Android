@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppEjemploBoton/AppEjemploBoton.iml" filepath="$PROJECT_DIR$/AppEjemploBoton/AppEjemploBoton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjemploListView/EjemploListView.iml" filepath="$PROJECT_DIR$/EjemploListView/EjemploListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialDeApoyo_views.iml" filepath="$PROJECT_DIR$/MaterialDeApoyo_views.iml" />
+    </modules>
+  </component>
+</project>

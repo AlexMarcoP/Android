@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/menu"
+    >
+
+    <item
+        android:id="@+id/play_call"
+        android:icon="@drawable/ic_play_call"
+        android:orderInCategory="100"
+        android:title="string/information"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/play_fifty"
+        android:icon="@drawable/ic_play_fifty"
+        android:orderInCategory="100"
+        android:title="string/information"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/play_people"
+        android:icon="@drawable/ic_play_people"
+        android:orderInCategory="100"
+        android:title="string/information"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/play_exit"
+        android:icon="@drawable/ic_play_discard"
+        android:orderInCategory="100"
+        android:title="string/information"
+        app:showAsAction="always" />
+</menu>

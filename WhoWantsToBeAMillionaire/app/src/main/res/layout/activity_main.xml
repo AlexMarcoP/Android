@@ -1,0 +1,84 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3cc9ff"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/play"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_gravity="center"
+        android:onClick="onClickDashboard">
+
+        <ImageView
+            android:id="@+id/ivItem1"
+            android:layout_width="118dp"
+            android:layout_height="111dp"
+            android:layout_marginStart="66dp"
+            android:background="@drawable/image_play_dashboard"
+            android:contentDescription="@string/app_name"
+            android:foregroundGravity="left" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/play_label"
+            android:textSize="24sp" />
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/scores"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_gravity="center"
+        android:onClick="onClickDashboard">
+
+        <ImageView
+            android:id="@+id/ivItem3"
+            android:layout_width="118dp"
+            android:layout_height="111dp"
+            android:layout_marginStart="66dp"
+            android:background="@drawable/image_scores_dashboard"
+            android:contentDescription="@string/app_name" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/scores_label"
+            android:textSize="24sp" />
+
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/settings"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_gravity="center"
+        android:onClick="onClickDashboard">
+
+        <ImageView
+            android:id="@+id/ivItem5"
+            android:layout_width="118dp"
+            android:layout_height="111dp"
+            android:layout_marginStart="66dp"
+            android:background="@drawable/image_settings_dashboard"
+            android:contentDescription="@string/app_name" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/settings_label"
+            android:textSize="24sp" />
+
+
+    </LinearLayout>
+</LinearLayout>
